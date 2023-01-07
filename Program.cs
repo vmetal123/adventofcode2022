@@ -7,7 +7,7 @@ Console.WriteLine("Started");
 var timer = new Stopwatch();
 timer.Start();
 
-var totalScore = await DayEleven.Part2();
+var totalScore = await DayTwelve.Part2();
 
 // var dayOne = new DayOne();
 // var maxCaloriesFromElves = await dayOne.GetMaxCaloriesFromElves();
